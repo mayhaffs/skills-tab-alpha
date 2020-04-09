@@ -1,0 +1,76 @@
+[
+  {
+    "category": "Professions",
+    "level": "15",
+    "name": "DevCraft",
+    "details": "Web development and programming assignments and exercises that practice and promote learning new skills of a web developer.",
+    "entries": [
+      {
+        "level": "15", 
+        "date": "12/5/19", 
+        "title": "started skillsTab",
+        "description": "-- read 1/2 of Thinking in React [https://reactjs.org/docs/thinking-in-react.html#start-with-a-mock]. -- read several articles. -- started skillsTab: create-react-app, add material-ui, add skill progressBar prototype."
+      },
+      {
+        "level": "14",
+        "date": "12/5/19",
+        "title": "learnReactApp",
+        "description": "-- 1st part of extra-credit raised Search state to Capstone"
+      }
+    ]
+  },
+  {
+    "category": "Secondary Skills",
+    "level": "3",
+    "name": "SwimCraft",
+    "details": "Swimming workouts.",
+    "entries": [
+      {
+        "level": "3", 
+        "date": "11/9/19", 
+        "title": "Broadway xSport",
+        "description": "-- "
+      },
+      {
+        "level": "2",
+        "date": "11/?/19",
+        "title": "Western xSport. Lost fitbit",
+        "description": "-- "
+      },
+      {
+        "level": "1",
+        "date": "11/?/19",
+        "title": "Western xSport.",
+        "description": "-- "        
+      }
+    ]
+  },
+  {
+    "category": "Secondary Skills",
+    "level": "0",
+    "name": "Cooking",
+    "details": "",
+    "entries": []
+  },  
+  {
+    "category": "Secondary Skills",
+    "level": "0",
+    "name": "First Aid",
+    "details": "",
+    "entries": []
+  },
+  {
+    "category": "Secondary Skills",
+    "level": "0",
+    "name": "Fishing",
+    "details": "",
+    "entries": []
+  },
+  {
+    "category": "Secondary Skills",
+    "level": "0",
+    "name": "Riding",
+    "details": "",
+    "entries": []
+  }
+]
