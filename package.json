@@ -11,7 +11,7 @@
     "file-system": "^2.2.2",
     "lowdb": "^1.0.0",
     "mock-fs": "^4.11.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.0",
